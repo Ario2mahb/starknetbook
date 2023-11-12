@@ -5,7 +5,7 @@
   "repoHost": "https://github.com",
   "files": ["README.md"],
   "imageSize": 100,m 
-  "commit": true,
+  "commit":,
   "commitConvention": "gitmoji",
   "contributorsPerLine": 7
 }
